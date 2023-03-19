@@ -1,0 +1,66 @@
+.line-Up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.line-Up__titulo {
+   font-family: var(--Calistoga);
+   font-weight: 400;
+   color: var(--cinza);
+   font-size: 48px;
+   padding: 32px 0;
+}
+.line-Up__box-laranja {
+    background: var(--mostarda);
+    font-family: var(--Calistoga);
+    font-weight: 400;
+    padding: 0.5em 0.5em;
+    color: var(--branco);
+    font-size: 32px;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+.line-Up__titulo-descricao{
+    font-family: var(--Raleway);
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+    color: var(--cinza);
+    padding: 1em 0 0.5em 0;
+}
+.line-Up__descricao1 {
+    font-family: var(--Raleway);
+    font-weight: 700;
+    font-size: 40px;
+    padding: 0.3em;
+    color: var(--cinza);
+    text-align: center;
+}
+.line-Up__descricao2{
+    font-family: var(--Raleway);
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--cinza);
+    text-align: center;
+    padding: 0.3em;
+}   
+.line-Up__descricao3{
+    font-family: var(--Raleway);
+    font-weight: 500;
+    font-size: 32px;
+    color: var(--cinza);
+    text-align: center;
+    padding: 0.3em;
+}
+.img-lineUp{
+    position: relative;
+    margin-top: 30px;
+}
+.bloco{
+    background: #df8c1060;
+    width: 360px;
+    height:338px ;
+    position: absolute;
+    z-index: 99;
+    margin-top: 30px;
+}

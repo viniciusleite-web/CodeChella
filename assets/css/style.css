@@ -1,5 +1,7 @@
 @import url("./cabecalho/cabecalho.css");
 @import url("./sobre/sobre.css");
+@import url("./line-Up/lien-UP.css");
+@import url("./rodape/rodape.css");
 
 :root {
     --azul-escuro: #2E7BA2;
@@ -7,7 +9,9 @@
     --branco: #FFFFFF;
     --preto: #000000;
     --cinza: #444444;
-    --Raleway: "Raleway"
+    --Raleway: "Raleway";
+    --Calistoga:"Calistoga";
+    --Amarelo:  #FACF9D;
 }
 
 .body{
@@ -15,6 +19,6 @@
     font-weight: 400;
 }
 .fundo {
-    background:linear-gradient(180deg, #BFDAE6 0%, #FCF0DD 50%, #FACF9D 100%);;
+    background:linear-gradient(180deg, #BFDAE6 0%, #FCF0DD 50%, #FACF9D 100%);
 }
 

@@ -1,0 +1,18 @@
+.rodape {
+    background-color: var(--Amarelo);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rodape__logo{
+    padding: 24px 63px;
+}
+.rodape__descricao-social{
+    font-family: var(--Raleway);
+    font-weight: 500;
+    color: var(--cinza);
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    padding: 1em 1em;
+}

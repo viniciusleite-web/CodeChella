@@ -1,14 +1,16 @@
 .sobre{
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 .sobre__img {
     padding: 2em;
 }
 .sobre__titulo {
     text-align: center;
-    line-height: 40px;
+    line-height: 42px;
     font-family: var(--Raleway);
+    font-weight: 700;
     font-size: 32px;
     color: var(--cinza);
 }
@@ -20,4 +22,21 @@
     padding: 1em;
     font-size: 20px;
     color: var(--cinza);
+}
+
+.sobre__botao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    width: 312px;
+    height: 56px;
+    margin: 0 auto;
+    background-color: var(--azul-escuro);
+    text-decoration: none;
+    color: var(--branco);
+    font-family: var(--Raleway);
+    font-size: 20px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 0px var(--cinza);
 }
