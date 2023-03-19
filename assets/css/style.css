@@ -1,0 +1,16 @@
+@import url("./cabecalho/cabecalho.css");
+
+:root {
+    --azul-escuro: #2E7BA2;
+    --mostarda: #DF9010;
+    --branco: #FFFFFF;
+    --preto: #000000;
+    --cinza: #444444;
+    --Raleway: "Raleway"
+}
+
+.body{
+    font-size: 16px;
+    font-weight: 400;
+}
+
