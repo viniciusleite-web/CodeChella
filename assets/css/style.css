@@ -1,4 +1,5 @@
 @import url("./cabecalho/cabecalho.css");
+@import url("./sobre/sobre.css");
 
 :root {
     --azul-escuro: #2E7BA2;
@@ -12,5 +13,8 @@
 .body{
     font-size: 16px;
     font-weight: 400;
+}
+.fundo {
+    background:linear-gradient(180deg, #BFDAE6 0%, #FCF0DD 50%, #FACF9D 100%);;
 }
 
