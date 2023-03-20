@@ -36,6 +36,7 @@ hr {
     width: 193px;
     padding: 0.5em 0;
     display: none;
+    z-index: 99;
 }
 .menu__item {
     padding: 1em 0;

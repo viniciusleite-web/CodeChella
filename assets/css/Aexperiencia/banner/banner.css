@@ -1,0 +1,14 @@
+.Banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(35, 147, 223, 0.568);
+}
+.banner__titulo {
+    position: absolute;
+    font-family: var(--Calistoga);
+    font-size: 32px;
+    font-weight: 400;
+}
+
+
