@@ -1,7 +1,7 @@
-@import url("./cabecalho/cabecalho.css");
-@import url("./sobre/sobre.css");
-@import url("./line-Up/lien-UP.css");
-@import url("./rodape/rodape.css");
+@import url("./Home/cabecalho/cabecalho.css");
+@import url("./Home/sobre/sobre.css");
+@import url("./Home/line-Up/lien-UP.css");
+@import url("./Home/rodape/rodape.css");
 
 :root {
     --azul-escuro: #2E7BA2;
